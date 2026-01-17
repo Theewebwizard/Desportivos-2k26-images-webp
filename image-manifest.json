@@ -1,0 +1,5041 @@
+{
+  "Gallery/Images/img1.png": {
+    "original": {
+      "width": 630,
+      "height": 1204,
+      "size": 1185012
+    },
+    "webp": {
+      "full": {
+        "path": "Gallery/Images/img1.webp",
+        "width": 630,
+        "size": 64022
+      },
+      "480w": {
+        "path": "Gallery/Images/img1-480w.webp",
+        "width": 480,
+        "size": 48104
+      }
+    }
+  },
+  "Gallery/Images/img2.png": {
+    "original": {
+      "width": 1410,
+      "height": 892,
+      "size": 2036580
+    },
+    "webp": {
+      "full": {
+        "path": "Gallery/Images/img2.webp",
+        "width": 1410,
+        "size": 176494
+      },
+      "480w": {
+        "path": "Gallery/Images/img2-480w.webp",
+        "width": 480,
+        "size": 38950
+      },
+      "960w": {
+        "path": "Gallery/Images/img2-960w.webp",
+        "width": 960,
+        "size": 110542
+      }
+    }
+  },
+  "Gallery/Images/img3.png": {
+    "original": {
+      "width": 752,
+      "height": 1016,
+      "size": 962797
+    },
+    "webp": {
+      "full": {
+        "path": "Gallery/Images/img3.webp",
+        "width": 752,
+        "size": 53744
+      },
+      "480w": {
+        "path": "Gallery/Images/img3-480w.webp",
+        "width": 480,
+        "size": 33398
+      }
+    }
+  },
+  "Gallery/Images/img4.png": {
+    "original": {
+      "width": 752,
+      "height": 744,
+      "size": 879551
+    },
+    "webp": {
+      "full": {
+        "path": "Gallery/Images/img4.webp",
+        "width": 752,
+        "size": 68310
+      },
+      "480w": {
+        "path": "Gallery/Images/img4-480w.webp",
+        "width": 480,
+        "size": 38422
+      }
+    }
+  },
+  "Gallery/Images/img5.png": {
+    "original": {
+      "width": 858,
+      "height": 778,
+      "size": 1241963
+    },
+    "webp": {
+      "full": {
+        "path": "Gallery/Images/img5.webp",
+        "width": 858,
+        "size": 133164
+      },
+      "480w": {
+        "path": "Gallery/Images/img5-480w.webp",
+        "width": 480,
+        "size": 58140
+      }
+    }
+  },
+  "GalleryFront/bg-image.png": {
+    "original": {
+      "width": 1024,
+      "height": 1024,
+      "size": 1587866
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/bg-image.webp",
+        "width": 1024,
+        "size": 158014
+      },
+      "480w": {
+        "path": "GalleryFront/bg-image-480w.webp",
+        "width": 480,
+        "size": 71204
+      },
+      "960w": {
+        "path": "GalleryFront/bg-image-960w.webp",
+        "width": 960,
+        "size": 149636
+      }
+    }
+  },
+  "GalleryFront/esports-cover.png": {
+    "original": {
+      "width": 2074,
+      "height": 1268,
+      "size": 3470665
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/esports-cover.webp",
+        "width": 2074,
+        "size": 138156
+      },
+      "480w": {
+        "path": "GalleryFront/esports-cover-480w.webp",
+        "width": 480,
+        "size": 15116
+      },
+      "960w": {
+        "path": "GalleryFront/esports-cover-960w.webp",
+        "width": 960,
+        "size": 39864
+      },
+      "1440w": {
+        "path": "GalleryFront/esports-cover-1440w.webp",
+        "width": 1440,
+        "size": 72738
+      }
+    }
+  },
+  "GalleryFront/food-cover.png": {
+    "original": {
+      "width": 2208,
+      "height": 1266,
+      "size": 5249732
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/food-cover.webp",
+        "width": 2208,
+        "size": 469938
+      },
+      "480w": {
+        "path": "GalleryFront/food-cover-480w.webp",
+        "width": 480,
+        "size": 30738
+      },
+      "960w": {
+        "path": "GalleryFront/food-cover-960w.webp",
+        "width": 960,
+        "size": 79446
+      },
+      "1440w": {
+        "path": "GalleryFront/food-cover-1440w.webp",
+        "width": 1440,
+        "size": 163216
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img1.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 11387344
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img1.webp",
+        "width": 6000,
+        "size": 1285408
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img1-480w.webp",
+        "width": 480,
+        "size": 39098
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img1-960w.webp",
+        "width": 960,
+        "size": 104604
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img1-1440w.webp",
+        "width": 1440,
+        "size": 185808
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img10.jpg": {
+    "original": {
+      "width": 2667,
+      "height": 4000,
+      "size": 7157015
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img10.webp",
+        "width": 2667,
+        "size": 1892840
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img10-480w.webp",
+        "width": 480,
+        "size": 24868
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img10-960w.webp",
+        "width": 960,
+        "size": 81306
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img10-1440w.webp",
+        "width": 1440,
+        "size": 301398
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img11.jpg": {
+    "original": {
+      "width": 5785,
+      "height": 3857,
+      "size": 12562439
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img11.webp",
+        "width": 5785,
+        "size": 2677876
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img11-480w.webp",
+        "width": 480,
+        "size": 19250
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img11-960w.webp",
+        "width": 960,
+        "size": 45082
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img11-1440w.webp",
+        "width": 1440,
+        "size": 77120
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img12.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 18452377
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img12.webp",
+        "width": 6000,
+        "size": 5735842
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img12-480w.webp",
+        "width": 480,
+        "size": 28666
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img12-960w.webp",
+        "width": 960,
+        "size": 72874
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img12-1440w.webp",
+        "width": 1440,
+        "size": 128924
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img13.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 14168026
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img13.webp",
+        "width": 6000,
+        "size": 2611298
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img13-480w.webp",
+        "width": 480,
+        "size": 12148
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img13-960w.webp",
+        "width": 960,
+        "size": 28970
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img13-1440w.webp",
+        "width": 1440,
+        "size": 49894
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img14.jpg": {
+    "original": {
+      "width": 5698,
+      "height": 3799,
+      "size": 10995662
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img14.webp",
+        "width": 5698,
+        "size": 1661472
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img14-480w.webp",
+        "width": 480,
+        "size": 24092
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img14-960w.webp",
+        "width": 960,
+        "size": 58388
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img14-1440w.webp",
+        "width": 1440,
+        "size": 96352
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img15.jpg": {
+    "original": {
+      "width": 4000,
+      "height": 6000,
+      "size": 14393205
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img15.webp",
+        "width": 4000,
+        "size": 4014688
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img15-480w.webp",
+        "width": 480,
+        "size": 30238
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img15-960w.webp",
+        "width": 960,
+        "size": 76300
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img15-1440w.webp",
+        "width": 1440,
+        "size": 154946
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img16.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 14751755
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img16.webp",
+        "width": 6000,
+        "size": 3182254
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img16-480w.webp",
+        "width": 480,
+        "size": 19862
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img16-960w.webp",
+        "width": 960,
+        "size": 47314
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img16-1440w.webp",
+        "width": 1440,
+        "size": 79066
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img17.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 17176371
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img17.webp",
+        "width": 6000,
+        "size": 3967934
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img17-480w.webp",
+        "width": 480,
+        "size": 41002
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img17-960w.webp",
+        "width": 960,
+        "size": 128886
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img17-1440w.webp",
+        "width": 1440,
+        "size": 240452
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img18.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 9346561
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img18.webp",
+        "width": 6000,
+        "size": 841378
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img18-480w.webp",
+        "width": 480,
+        "size": 9866
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img18-960w.webp",
+        "width": 960,
+        "size": 23022
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img18-1440w.webp",
+        "width": 1440,
+        "size": 38184
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img19.jpg": {
+    "original": {
+      "width": 5463,
+      "height": 3642,
+      "size": 13749994
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img19.webp",
+        "width": 5463,
+        "size": 2970750
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img19-480w.webp",
+        "width": 480,
+        "size": 29384
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img19-960w.webp",
+        "width": 960,
+        "size": 71508
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img19-1440w.webp",
+        "width": 1440,
+        "size": 123500
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img2.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 9710698
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img2.webp",
+        "width": 6000,
+        "size": 1040076
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img2-480w.webp",
+        "width": 480,
+        "size": 32444
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img2-960w.webp",
+        "width": 960,
+        "size": 86480
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img2-1440w.webp",
+        "width": 1440,
+        "size": 152622
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img20.jpg": {
+    "original": {
+      "width": 3994,
+      "height": 2663,
+      "size": 7906837
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img20.webp",
+        "width": 3994,
+        "size": 1872262
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img20-480w.webp",
+        "width": 480,
+        "size": 23350
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img20-960w.webp",
+        "width": 960,
+        "size": 64854
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img20-1440w.webp",
+        "width": 1440,
+        "size": 149808
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img21.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 17369182
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img21.webp",
+        "width": 6000,
+        "size": 4272484
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img21-480w.webp",
+        "width": 480,
+        "size": 16116
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img21-960w.webp",
+        "width": 960,
+        "size": 49588
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img21-1440w.webp",
+        "width": 1440,
+        "size": 103746
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img22.jpg": {
+    "original": {
+      "width": 2667,
+      "height": 4000,
+      "size": 11068629
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img22.webp",
+        "width": 2667,
+        "size": 3036964
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img22-480w.webp",
+        "width": 480,
+        "size": 34998
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img22-960w.webp",
+        "width": 960,
+        "size": 213038
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img22-1440w.webp",
+        "width": 1440,
+        "size": 695068
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img23.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 25922462
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img23.webp",
+        "width": 6000,
+        "size": 6654290
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img23-480w.webp",
+        "width": 480,
+        "size": 22364
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img23-960w.webp",
+        "width": 960,
+        "size": 60918
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img23-1440w.webp",
+        "width": 1440,
+        "size": 127580
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img24.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 15453709
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img24.webp",
+        "width": 6000,
+        "size": 2190760
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img24-480w.webp",
+        "width": 480,
+        "size": 21024
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img24-960w.webp",
+        "width": 960,
+        "size": 60908
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img24-1440w.webp",
+        "width": 1440,
+        "size": 111856
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img25.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 17710757
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img25.webp",
+        "width": 6000,
+        "size": 2163448
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img25-480w.webp",
+        "width": 480,
+        "size": 16308
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img25-960w.webp",
+        "width": 960,
+        "size": 43298
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img25-1440w.webp",
+        "width": 1440,
+        "size": 86364
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img3.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 10178207
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img3.webp",
+        "width": 6000,
+        "size": 1109022
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img3-480w.webp",
+        "width": 480,
+        "size": 35342
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img3-960w.webp",
+        "width": 960,
+        "size": 99070
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img3-1440w.webp",
+        "width": 1440,
+        "size": 174320
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img4.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 9342820
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img4.webp",
+        "width": 6000,
+        "size": 931838
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img4-480w.webp",
+        "width": 480,
+        "size": 25882
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img4-960w.webp",
+        "width": 960,
+        "size": 66628
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img4-1440w.webp",
+        "width": 1440,
+        "size": 122482
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img5.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 10976250
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img5.webp",
+        "width": 6000,
+        "size": 1518258
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img5-480w.webp",
+        "width": 480,
+        "size": 20276
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img5-960w.webp",
+        "width": 960,
+        "size": 50044
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img5-1440w.webp",
+        "width": 1440,
+        "size": 97952
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img6.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 10830522
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img6.webp",
+        "width": 6000,
+        "size": 1428244
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img6-480w.webp",
+        "width": 480,
+        "size": 29792
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img6-960w.webp",
+        "width": 960,
+        "size": 77842
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img6-1440w.webp",
+        "width": 1440,
+        "size": 137904
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img7.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 11294185
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img7.webp",
+        "width": 6000,
+        "size": 1724376
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img7-480w.webp",
+        "width": 480,
+        "size": 33384
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img7-960w.webp",
+        "width": 960,
+        "size": 98044
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img7-1440w.webp",
+        "width": 1440,
+        "size": 179978
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img8.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 17785226
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img8.webp",
+        "width": 6000,
+        "size": 4915146
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img8-480w.webp",
+        "width": 480,
+        "size": 15918
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img8-960w.webp",
+        "width": 960,
+        "size": 41702
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img8-1440w.webp",
+        "width": 1440,
+        "size": 87102
+      }
+    }
+  },
+  "GalleryFront/photos/Esports/img9.jpg": {
+    "original": {
+      "width": 3731,
+      "height": 5597,
+      "size": 14847949
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Esports/img9.webp",
+        "width": 3731,
+        "size": 3416278
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Esports/img9-480w.webp",
+        "width": 480,
+        "size": 25232
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Esports/img9-960w.webp",
+        "width": 960,
+        "size": 79742
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Esports/img9-1440w.webp",
+        "width": 1440,
+        "size": 214508
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img1.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1262903
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img1.webp",
+        "width": 6000,
+        "size": 891244
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img1-480w.webp",
+        "width": 480,
+        "size": 30942
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img1-960w.webp",
+        "width": 960,
+        "size": 75238
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img1-1440w.webp",
+        "width": 1440,
+        "size": 124424
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img10.jpg": {
+    "original": {
+      "width": 3696,
+      "height": 5499,
+      "size": 21072076
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img10.webp",
+        "width": 3696,
+        "size": 6865002
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img10-480w.webp",
+        "width": 480,
+        "size": 43310
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img10-960w.webp",
+        "width": 960,
+        "size": 173560
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img10-1440w.webp",
+        "width": 1440,
+        "size": 615682
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img11.jpg": {
+    "original": {
+      "width": 3376,
+      "height": 4531,
+      "size": 15938932
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img11.webp",
+        "width": 3376,
+        "size": 5327600
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img11-480w.webp",
+        "width": 480,
+        "size": 40210
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img11-960w.webp",
+        "width": 960,
+        "size": 191974
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img11-1440w.webp",
+        "width": 1440,
+        "size": 628140
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img12.jpg": {
+    "original": {
+      "width": 3169,
+      "height": 4710,
+      "size": 14439764
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img12.webp",
+        "width": 3169,
+        "size": 4917714
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img12-480w.webp",
+        "width": 480,
+        "size": 61988
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img12-960w.webp",
+        "width": 960,
+        "size": 265304
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img12-1440w.webp",
+        "width": 1440,
+        "size": 722312
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img13.jpg": {
+    "original": {
+      "width": 3526,
+      "height": 5088,
+      "size": 16744615
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img13.webp",
+        "width": 3526,
+        "size": 5742502
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img13-480w.webp",
+        "width": 480,
+        "size": 58664
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img13-960w.webp",
+        "width": 960,
+        "size": 241762
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img13-1440w.webp",
+        "width": 1440,
+        "size": 701064
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img14.jpg": {
+    "original": {
+      "width": 3053,
+      "height": 3707,
+      "size": 10807335
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img14.webp",
+        "width": 3053,
+        "size": 3675624
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img14-480w.webp",
+        "width": 480,
+        "size": 48016
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img14-960w.webp",
+        "width": 960,
+        "size": 204388
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img14-1440w.webp",
+        "width": 1440,
+        "size": 607668
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img15.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 3461,
+      "size": 16826283
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img15.webp",
+        "width": 6000,
+        "size": 4687776
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img15-480w.webp",
+        "width": 480,
+        "size": 42074
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img15-960w.webp",
+        "width": 960,
+        "size": 112412
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img15-1440w.webp",
+        "width": 1440,
+        "size": 197720
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img16.jpg": {
+    "original": {
+      "width": 5666,
+      "height": 3688,
+      "size": 19794504
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img16.webp",
+        "width": 5666,
+        "size": 5977202
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img16-480w.webp",
+        "width": 480,
+        "size": 29986
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img16-960w.webp",
+        "width": 960,
+        "size": 84388
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img16-1440w.webp",
+        "width": 1440,
+        "size": 176758
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img17.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 1673491
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img17.webp",
+        "width": 4240,
+        "size": 1974976
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img17-480w.webp",
+        "width": 480,
+        "size": 40990
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img17-960w.webp",
+        "width": 960,
+        "size": 115488
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img17-1440w.webp",
+        "width": 1440,
+        "size": 259178
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img18.jpg": {
+    "original": {
+      "width": 3656,
+      "height": 2260,
+      "size": 1199026
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img18.webp",
+        "width": 3656,
+        "size": 1300968
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img18-480w.webp",
+        "width": 480,
+        "size": 39748
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img18-960w.webp",
+        "width": 960,
+        "size": 117266
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img18-1440w.webp",
+        "width": 1440,
+        "size": 264228
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img19.jpg": {
+    "original": {
+      "width": 3840,
+      "height": 2350,
+      "size": 1164887
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img19.webp",
+        "width": 3840,
+        "size": 1259484
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img19-480w.webp",
+        "width": 480,
+        "size": 32678
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img19-960w.webp",
+        "width": 960,
+        "size": 96644
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img19-1440w.webp",
+        "width": 1440,
+        "size": 215136
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img2.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1057868
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img2.webp",
+        "width": 6000,
+        "size": 718166
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img2-480w.webp",
+        "width": 480,
+        "size": 21904
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img2-960w.webp",
+        "width": 960,
+        "size": 57770
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img2-1440w.webp",
+        "width": 1440,
+        "size": 95548
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img20.jpg": {
+    "original": {
+      "width": 9504,
+      "height": 5344,
+      "size": 26735527
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img20.webp",
+        "width": 9504,
+        "size": 4392018
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img20-480w.webp",
+        "width": 480,
+        "size": 22040
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img20-960w.webp",
+        "width": 960,
+        "size": 54756
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img20-1440w.webp",
+        "width": 1440,
+        "size": 95224
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img21.jpg": {
+    "original": {
+      "width": 5095,
+      "height": 3397,
+      "size": 1865812
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img21.webp",
+        "width": 5095,
+        "size": 1838954
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img21-480w.webp",
+        "width": 480,
+        "size": 38336
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img21-960w.webp",
+        "width": 960,
+        "size": 127246
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img21-1440w.webp",
+        "width": 1440,
+        "size": 256154
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img22.jpg": {
+    "original": {
+      "width": 3682,
+      "height": 2382,
+      "size": 6546788
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img22.webp",
+        "width": 3682,
+        "size": 1666856
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img22-480w.webp",
+        "width": 480,
+        "size": 33924
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img22-960w.webp",
+        "width": 960,
+        "size": 101790
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img22-1440w.webp",
+        "width": 1440,
+        "size": 228418
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img23.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 11499222
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img23.webp",
+        "width": 4240,
+        "size": 3093332
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img23-480w.webp",
+        "width": 480,
+        "size": 42196
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img23-960w.webp",
+        "width": 960,
+        "size": 121172
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img23-1440w.webp",
+        "width": 1440,
+        "size": 275026
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img24.jpg": {
+    "original": {
+      "width": 8653,
+      "height": 6336,
+      "size": 22547841
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img24.webp",
+        "width": 8653,
+        "size": 19914508
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img24-480w.webp",
+        "width": 480,
+        "size": 32016
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img24-960w.webp",
+        "width": 960,
+        "size": 80692
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img24-1440w.webp",
+        "width": 1440,
+        "size": 187524
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img25.jpg": {
+    "original": {
+      "width": 8098,
+      "height": 6083,
+      "size": 19941575
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img25.webp",
+        "width": 8098,
+        "size": 17680246
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img25-480w.webp",
+        "width": 480,
+        "size": 33872
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img25-960w.webp",
+        "width": 960,
+        "size": 88730
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img25-1440w.webp",
+        "width": 1440,
+        "size": 204480
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img26.jpg": {
+    "original": {
+      "width": 9504,
+      "height": 5962,
+      "size": 22332897
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img26.webp",
+        "width": 9504,
+        "size": 19625040
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img26-480w.webp",
+        "width": 480,
+        "size": 32176
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img26-960w.webp",
+        "width": 960,
+        "size": 81116
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img26-1440w.webp",
+        "width": 1440,
+        "size": 160216
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img27.jpg": {
+    "original": {
+      "width": 7095,
+      "height": 5229,
+      "size": 12827530
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img27.webp",
+        "width": 7095,
+        "size": 11379734
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img27-480w.webp",
+        "width": 480,
+        "size": 35940
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img27-960w.webp",
+        "width": 960,
+        "size": 90622
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img27-1440w.webp",
+        "width": 1440,
+        "size": 198606
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img3.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1093837
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img3.webp",
+        "width": 6000,
+        "size": 792222
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img3-480w.webp",
+        "width": 480,
+        "size": 20648
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img3-960w.webp",
+        "width": 960,
+        "size": 53354
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img3-1440w.webp",
+        "width": 1440,
+        "size": 97408
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img4.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 16901819
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img4.webp",
+        "width": 6000,
+        "size": 4571534
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img4-480w.webp",
+        "width": 480,
+        "size": 22698
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img4-960w.webp",
+        "width": 960,
+        "size": 54540
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img4-1440w.webp",
+        "width": 1440,
+        "size": 93956
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img5.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 16218570
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img5.webp",
+        "width": 6000,
+        "size": 4377420
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img5-480w.webp",
+        "width": 480,
+        "size": 21244
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img5-960w.webp",
+        "width": 960,
+        "size": 50706
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img5-1440w.webp",
+        "width": 1440,
+        "size": 86156
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img6.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 18980259
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img6.webp",
+        "width": 6000,
+        "size": 4400324
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img6-480w.webp",
+        "width": 480,
+        "size": 28738
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img6-960w.webp",
+        "width": 960,
+        "size": 74940
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img6-1440w.webp",
+        "width": 1440,
+        "size": 134018
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img7.jpg": {
+    "original": {
+      "width": 5152,
+      "height": 4000,
+      "size": 13173098
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img7.webp",
+        "width": 5152,
+        "size": 1821362
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img7-480w.webp",
+        "width": 480,
+        "size": 34532
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img7-960w.webp",
+        "width": 960,
+        "size": 85544
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img7-1440w.webp",
+        "width": 1440,
+        "size": 148480
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img8.jpg": {
+    "original": {
+      "width": 2525,
+      "height": 3376,
+      "size": 4756257
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img8.webp",
+        "width": 2525,
+        "size": 620214
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img8-480w.webp",
+        "width": 480,
+        "size": 45002
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img8-960w.webp",
+        "width": 960,
+        "size": 119580
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img8-1440w.webp",
+        "width": 1440,
+        "size": 225744
+      }
+    }
+  },
+  "GalleryFront/photos/Food/img9.jpg": {
+    "original": {
+      "width": 2322,
+      "height": 3376,
+      "size": 4132870
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Food/img9.webp",
+        "width": 2322,
+        "size": 493422
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Food/img9-480w.webp",
+        "width": 480,
+        "size": 39074
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Food/img9-960w.webp",
+        "width": 960,
+        "size": 98442
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Food/img9-1440w.webp",
+        "width": 1440,
+        "size": 183760
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img1.jpg": {
+    "original": {
+      "width": 5413,
+      "height": 3609,
+      "size": 1364888
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img1.webp",
+        "width": 5413,
+        "size": 1293490
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img1-480w.webp",
+        "width": 480,
+        "size": 20932
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img1-960w.webp",
+        "width": 960,
+        "size": 55568
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img1-1440w.webp",
+        "width": 1440,
+        "size": 108212
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img10.jpg": {
+    "original": {
+      "width": 5344,
+      "height": 9504,
+      "size": 8617079
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img10.webp",
+        "width": 5344,
+        "size": 9936066
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img10-480w.webp",
+        "width": 480,
+        "size": 41848
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img10-960w.webp",
+        "width": 960,
+        "size": 143710
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img10-1440w.webp",
+        "width": 1440,
+        "size": 375756
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img11.jpg": {
+    "original": {
+      "width": 3135,
+      "height": 4266,
+      "size": 568340
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img11.webp",
+        "width": 3135,
+        "size": 419934
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img11-480w.webp",
+        "width": 480,
+        "size": 24672
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img11-960w.webp",
+        "width": 960,
+        "size": 65914
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img11-1440w.webp",
+        "width": 1440,
+        "size": 126782
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img12.jpg": {
+    "original": {
+      "width": 4160,
+      "height": 4266,
+      "size": 4683092
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img12.webp",
+        "width": 4160,
+        "size": 7153768
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img12-480w.webp",
+        "width": 480,
+        "size": 31916
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img12-960w.webp",
+        "width": 960,
+        "size": 176614
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img12-1440w.webp",
+        "width": 1440,
+        "size": 528188
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img13.jpg": {
+    "original": {
+      "width": 5085,
+      "height": 3476,
+      "size": 4274377
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img13.webp",
+        "width": 5085,
+        "size": 6246652
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img13-480w.webp",
+        "width": 480,
+        "size": 14226
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img13-960w.webp",
+        "width": 960,
+        "size": 82518
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img13-1440w.webp",
+        "width": 1440,
+        "size": 256028
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img14.jpg": {
+    "original": {
+      "width": 4952,
+      "height": 3301,
+      "size": 1086608
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img14.webp",
+        "width": 4952,
+        "size": 945694
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img14-480w.webp",
+        "width": 480,
+        "size": 20196
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img14-960w.webp",
+        "width": 960,
+        "size": 54318
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img14-1440w.webp",
+        "width": 1440,
+        "size": 112048
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img15.jpg": {
+    "original": {
+      "width": 5184,
+      "height": 3456,
+      "size": 1244898
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img15.webp",
+        "width": 5184,
+        "size": 1094244
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img15-480w.webp",
+        "width": 480,
+        "size": 23974
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img15-960w.webp",
+        "width": 960,
+        "size": 64824
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img15-1440w.webp",
+        "width": 1440,
+        "size": 125700
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img16.jpg": {
+    "original": {
+      "width": 5145,
+      "height": 3430,
+      "size": 1561779
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img16.webp",
+        "width": 5145,
+        "size": 1383168
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img16-480w.webp",
+        "width": 480,
+        "size": 45958
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img16-960w.webp",
+        "width": 960,
+        "size": 109812
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img16-1440w.webp",
+        "width": 1440,
+        "size": 194132
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img17.jpg": {
+    "original": {
+      "width": 5033,
+      "height": 3355,
+      "size": 1799219
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img17.webp",
+        "width": 5033,
+        "size": 1556844
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img17-480w.webp",
+        "width": 480,
+        "size": 43290
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img17-960w.webp",
+        "width": 960,
+        "size": 132118
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img17-1440w.webp",
+        "width": 1440,
+        "size": 251292
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img18.jpg": {
+    "original": {
+      "width": 4855,
+      "height": 3237,
+      "size": 1270555
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img18.webp",
+        "width": 4855,
+        "size": 1099570
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img18-480w.webp",
+        "width": 480,
+        "size": 31554
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img18-960w.webp",
+        "width": 960,
+        "size": 83246
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img18-1440w.webp",
+        "width": 1440,
+        "size": 155246
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img19.jpg": {
+    "original": {
+      "width": 4813,
+      "height": 3209,
+      "size": 856723
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img19.webp",
+        "width": 4813,
+        "size": 701380
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img19-480w.webp",
+        "width": 480,
+        "size": 19216
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img19-960w.webp",
+        "width": 960,
+        "size": 48544
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img19-1440w.webp",
+        "width": 1440,
+        "size": 89130
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img2.jpg": {
+    "original": {
+      "width": 3972,
+      "height": 3770,
+      "size": 1002698
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img2.webp",
+        "width": 3972,
+        "size": 685278
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img2-480w.webp",
+        "width": 480,
+        "size": 39064
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img2-960w.webp",
+        "width": 960,
+        "size": 96202
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img2-1440w.webp",
+        "width": 1440,
+        "size": 151398
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img20.jpg": {
+    "original": {
+      "width": 4904,
+      "height": 3269,
+      "size": 861010
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img20.webp",
+        "width": 4904,
+        "size": 737696
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img20-480w.webp",
+        "width": 480,
+        "size": 13730
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img20-960w.webp",
+        "width": 960,
+        "size": 37026
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img20-1440w.webp",
+        "width": 1440,
+        "size": 73220
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img21.jpg": {
+    "original": {
+      "width": 5022,
+      "height": 3348,
+      "size": 1574428
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img21.webp",
+        "width": 5022,
+        "size": 1407966
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img21-480w.webp",
+        "width": 480,
+        "size": 30738
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img21-960w.webp",
+        "width": 960,
+        "size": 94006
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img21-1440w.webp",
+        "width": 1440,
+        "size": 195612
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img22.jpg": {
+    "original": {
+      "width": 5127,
+      "height": 3418,
+      "size": 1030172
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img22.webp",
+        "width": 5127,
+        "size": 866802
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img22-480w.webp",
+        "width": 480,
+        "size": 19558
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img22-960w.webp",
+        "width": 960,
+        "size": 44906
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img22-1440w.webp",
+        "width": 1440,
+        "size": 84498
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img23.jpg": {
+    "original": {
+      "width": 5952,
+      "height": 3349,
+      "size": 11244717
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img23.webp",
+        "width": 5952,
+        "size": 1453190
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img23-480w.webp",
+        "width": 480,
+        "size": 20930
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img23-960w.webp",
+        "width": 960,
+        "size": 65188
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img23-1440w.webp",
+        "width": 1440,
+        "size": 125964
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img24.jpg": {
+    "original": {
+      "width": 4496,
+      "height": 2530,
+      "size": 6264489
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img24.webp",
+        "width": 4496,
+        "size": 898718
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img24-480w.webp",
+        "width": 480,
+        "size": 21116
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img24-960w.webp",
+        "width": 960,
+        "size": 63422
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img24-1440w.webp",
+        "width": 1440,
+        "size": 120774
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img25.jpg": {
+    "original": {
+      "width": 2901,
+      "height": 1632,
+      "size": 3223191
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img25.webp",
+        "width": 2901,
+        "size": 441254
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img25-480w.webp",
+        "width": 480,
+        "size": 22638
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img25-960w.webp",
+        "width": 960,
+        "size": 65062
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img25-1440w.webp",
+        "width": 1440,
+        "size": 137350
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img3.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1526545
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img3.webp",
+        "width": 6000,
+        "size": 1259906
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img3-480w.webp",
+        "width": 480,
+        "size": 27312
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img3-960w.webp",
+        "width": 960,
+        "size": 69560
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img3-1440w.webp",
+        "width": 1440,
+        "size": 126056
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img4.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1413737
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img4.webp",
+        "width": 6000,
+        "size": 1275318
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img4-480w.webp",
+        "width": 480,
+        "size": 16930
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img4-960w.webp",
+        "width": 960,
+        "size": 40484
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img4-1440w.webp",
+        "width": 1440,
+        "size": 75616
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img5.jpg": {
+    "original": {
+      "width": 3930,
+      "height": 2625,
+      "size": 6087539
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img5.webp",
+        "width": 3930,
+        "size": 711638
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img5-480w.webp",
+        "width": 480,
+        "size": 23456
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img5-960w.webp",
+        "width": 960,
+        "size": 61266
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img5-1440w.webp",
+        "width": 1440,
+        "size": 106104
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img6.jpg": {
+    "original": {
+      "width": 3981,
+      "height": 2659,
+      "size": 8543380
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img6.webp",
+        "width": 3981,
+        "size": 1837068
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img6-480w.webp",
+        "width": 480,
+        "size": 26772
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img6-960w.webp",
+        "width": 960,
+        "size": 79480
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img6-1440w.webp",
+        "width": 1440,
+        "size": 183290
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img7.jpg": {
+    "original": {
+      "width": 9504,
+      "height": 5344,
+      "size": 7106083
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img7.webp",
+        "width": 9504,
+        "size": 9091072
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img7-480w.webp",
+        "width": 480,
+        "size": 7804
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img7-960w.webp",
+        "width": 960,
+        "size": 26432
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img7-1440w.webp",
+        "width": 1440,
+        "size": 102334
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img8.jpg": {
+    "original": {
+      "width": 3911,
+      "height": 2612,
+      "size": 8776031
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img8.webp",
+        "width": 3911,
+        "size": 1002656
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img8-480w.webp",
+        "width": 480,
+        "size": 20620
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img8-960w.webp",
+        "width": 960,
+        "size": 55010
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img8-1440w.webp",
+        "width": 1440,
+        "size": 105170
+      }
+    }
+  },
+  "GalleryFront/photos/Pronite/img9.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 8690918
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Pronite/img9.webp",
+        "width": 4240,
+        "size": 1841376
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Pronite/img9-480w.webp",
+        "width": 480,
+        "size": 34554
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Pronite/img9-960w.webp",
+        "width": 960,
+        "size": 124148
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Pronite/img9-1440w.webp",
+        "width": 1440,
+        "size": 266236
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img1.jpg": {
+    "original": {
+      "width": 3274,
+      "height": 2829,
+      "size": 5201356
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img1.webp",
+        "width": 3274,
+        "size": 748796
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img1-480w.webp",
+        "width": 480,
+        "size": 48984
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img1-960w.webp",
+        "width": 960,
+        "size": 136914
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img1-1440w.webp",
+        "width": 1440,
+        "size": 247918
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img10.jpg": {
+    "original": {
+      "width": 2836,
+      "height": 3688,
+      "size": 7045502
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img10.webp",
+        "width": 2836,
+        "size": 1945426
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img10-480w.webp",
+        "width": 480,
+        "size": 28746
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img10-960w.webp",
+        "width": 960,
+        "size": 78800
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img10-1440w.webp",
+        "width": 1440,
+        "size": 246042
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img11.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 3376,
+      "size": 19612179
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img11.webp",
+        "width": 6000,
+        "size": 4690402
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img11-480w.webp",
+        "width": 480,
+        "size": 23314
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img11-960w.webp",
+        "width": 960,
+        "size": 62496
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img11-1440w.webp",
+        "width": 1440,
+        "size": 126066
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img12.jpg": {
+    "original": {
+      "width": 5260,
+      "height": 3796,
+      "size": 12766083
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img12.webp",
+        "width": 5260,
+        "size": 2478338
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img12-480w.webp",
+        "width": 480,
+        "size": 29264
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img12-960w.webp",
+        "width": 960,
+        "size": 74310
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img12-1440w.webp",
+        "width": 1440,
+        "size": 134944
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img13.jpg": {
+    "original": {
+      "width": 5904,
+      "height": 4000,
+      "size": 13905934
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img13.webp",
+        "width": 5904,
+        "size": 2583186
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img13-480w.webp",
+        "width": 480,
+        "size": 21294
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img13-960w.webp",
+        "width": 960,
+        "size": 53690
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img13-1440w.webp",
+        "width": 1440,
+        "size": 92662
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img14.jpg": {
+    "original": {
+      "width": 8995,
+      "height": 5872,
+      "size": 79812138
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img14.webp",
+        "width": 8995,
+        "size": 19781154
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img14-480w.webp",
+        "width": 480,
+        "size": 37868
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img14-960w.webp",
+        "width": 960,
+        "size": 108586
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img14-1440w.webp",
+        "width": 1440,
+        "size": 239090
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img15.jpg": {
+    "original": {
+      "width": 2832,
+      "height": 3464,
+      "size": 636776
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img15.webp",
+        "width": 2832,
+        "size": 394006
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img15-480w.webp",
+        "width": 480,
+        "size": 38958
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img15-960w.webp",
+        "width": 960,
+        "size": 98716
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img15-1440w.webp",
+        "width": 1440,
+        "size": 164316
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img16.jpg": {
+    "original": {
+      "width": 1250,
+      "height": 1280,
+      "size": 188200
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img16.webp",
+        "width": 1250,
+        "size": 103486
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img16-480w.webp",
+        "width": 480,
+        "size": 31514
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img16-960w.webp",
+        "width": 960,
+        "size": 73254
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img17.jpg": {
+    "original": {
+      "width": 4767,
+      "height": 2682,
+      "size": 6380931
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img17.webp",
+        "width": 4767,
+        "size": 643194
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img17-480w.webp",
+        "width": 480,
+        "size": 18370
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img17-960w.webp",
+        "width": 960,
+        "size": 56082
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img17-1440w.webp",
+        "width": 1440,
+        "size": 102688
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img18.jpg": {
+    "original": {
+      "width": 4878,
+      "height": 2745,
+      "size": 7131636
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img18.webp",
+        "width": 4878,
+        "size": 659210
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img18-480w.webp",
+        "width": 480,
+        "size": 17328
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img18-960w.webp",
+        "width": 960,
+        "size": 51442
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img18-1440w.webp",
+        "width": 1440,
+        "size": 99818
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img19.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 8870294
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img19.webp",
+        "width": 6000,
+        "size": 790400
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img19-480w.webp",
+        "width": 480,
+        "size": 13804
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img19-960w.webp",
+        "width": 960,
+        "size": 35312
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img19-1440w.webp",
+        "width": 1440,
+        "size": 65650
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img2.jpg": {
+    "original": {
+      "width": 5539,
+      "height": 3865,
+      "size": 10150402
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img2.webp",
+        "width": 5539,
+        "size": 1193752
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img2-480w.webp",
+        "width": 480,
+        "size": 38292
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img2-960w.webp",
+        "width": 960,
+        "size": 100986
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img2-1440w.webp",
+        "width": 1440,
+        "size": 178010
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img20.jpg": {
+    "original": {
+      "width": 3591,
+      "height": 4710,
+      "size": 1272571
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img20.webp",
+        "width": 3591,
+        "size": 1156650
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img20-480w.webp",
+        "width": 480,
+        "size": 42294
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img20-960w.webp",
+        "width": 960,
+        "size": 122082
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img20-1440w.webp",
+        "width": 1440,
+        "size": 276792
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img21.jpg": {
+    "original": {
+      "width": 4000,
+      "height": 6000,
+      "size": 9260067
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img21.webp",
+        "width": 4000,
+        "size": 900866
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img21-480w.webp",
+        "width": 480,
+        "size": 22152
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img21-960w.webp",
+        "width": 960,
+        "size": 57692
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img21-1440w.webp",
+        "width": 1440,
+        "size": 121484
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img22.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 11175727
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img22.webp",
+        "width": 6000,
+        "size": 1298892
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img22-480w.webp",
+        "width": 480,
+        "size": 24598
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img22-960w.webp",
+        "width": 960,
+        "size": 55928
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img22-1440w.webp",
+        "width": 1440,
+        "size": 93110
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img23.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1218131
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img23.webp",
+        "width": 6000,
+        "size": 975758
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img23-480w.webp",
+        "width": 480,
+        "size": 16840
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img23-960w.webp",
+        "width": 960,
+        "size": 42902
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img23-1440w.webp",
+        "width": 1440,
+        "size": 77784
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img24.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1082697
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img24.webp",
+        "width": 6000,
+        "size": 851932
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img24-480w.webp",
+        "width": 480,
+        "size": 14624
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img24-960w.webp",
+        "width": 960,
+        "size": 34596
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img24-1440w.webp",
+        "width": 1440,
+        "size": 59832
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img25.jpg": {
+    "original": {
+      "width": 2089,
+      "height": 3714,
+      "size": 3763371
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img25.webp",
+        "width": 2089,
+        "size": 402706
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img25-480w.webp",
+        "width": 480,
+        "size": 35652
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img25-960w.webp",
+        "width": 960,
+        "size": 103880
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img25-1440w.webp",
+        "width": 1440,
+        "size": 210712
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img26.jpg": {
+    "original": {
+      "width": 2396,
+      "height": 2294,
+      "size": 553920
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img26.webp",
+        "width": 2396,
+        "size": 441580
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img26-480w.webp",
+        "width": 480,
+        "size": 55566
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img26-960w.webp",
+        "width": 960,
+        "size": 141462
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img26-1440w.webp",
+        "width": 1440,
+        "size": 234128
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img27.jpg": {
+    "original": {
+      "width": 3201,
+      "height": 2553,
+      "size": 797650
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img27.webp",
+        "width": 3201,
+        "size": 722916
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img27-480w.webp",
+        "width": 480,
+        "size": 42340
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img27-960w.webp",
+        "width": 960,
+        "size": 133200
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img27-1440w.webp",
+        "width": 1440,
+        "size": 255004
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img28.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 1482984
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img28.webp",
+        "width": 6000,
+        "size": 1133416
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img28-480w.webp",
+        "width": 480,
+        "size": 40692
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img28-960w.webp",
+        "width": 960,
+        "size": 104082
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img28-1440w.webp",
+        "width": 1440,
+        "size": 174116
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img29.jpg": {
+    "original": {
+      "width": 6016,
+      "height": 4000,
+      "size": 1462747
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img29.webp",
+        "width": 6016,
+        "size": 1257100
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img29-480w.webp",
+        "width": 480,
+        "size": 22358
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img29-960w.webp",
+        "width": 960,
+        "size": 67848
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img29-1440w.webp",
+        "width": 1440,
+        "size": 124626
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img3.jpg": {
+    "original": {
+      "width": 2286,
+      "height": 1497,
+      "size": 390553
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img3.webp",
+        "width": 2286,
+        "size": 333136
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img3-480w.webp",
+        "width": 480,
+        "size": 38772
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img3-960w.webp",
+        "width": 960,
+        "size": 116006
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img3-1440w.webp",
+        "width": 1440,
+        "size": 197232
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img30.jpg": {
+    "original": {
+      "width": 2989,
+      "height": 2858,
+      "size": 823245
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img30.webp",
+        "width": 2989,
+        "size": 747736
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img30-480w.webp",
+        "width": 480,
+        "size": 51026
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img30-960w.webp",
+        "width": 960,
+        "size": 163860
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img30-1440w.webp",
+        "width": 1440,
+        "size": 297606
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img31.jpg": {
+    "original": {
+      "width": 4246,
+      "height": 3711,
+      "size": 1821109
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img31.webp",
+        "width": 4246,
+        "size": 2372722
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img31-480w.webp",
+        "width": 480,
+        "size": 32006
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img31-960w.webp",
+        "width": 960,
+        "size": 90812
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img31-1440w.webp",
+        "width": 1440,
+        "size": 221810
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img32.jpg": {
+    "original": {
+      "width": 5630,
+      "height": 3869,
+      "size": 2730706
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img32.webp",
+        "width": 5630,
+        "size": 3630894
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img32-480w.webp",
+        "width": 480,
+        "size": 27702
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img32-960w.webp",
+        "width": 960,
+        "size": 86144
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img32-1440w.webp",
+        "width": 1440,
+        "size": 175654
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img33.jpg": {
+    "original": {
+      "width": 4798,
+      "height": 3749,
+      "size": 2039139
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img33.webp",
+        "width": 4798,
+        "size": 2642374
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img33-480w.webp",
+        "width": 480,
+        "size": 28076
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img33-960w.webp",
+        "width": 960,
+        "size": 86464
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img33-1440w.webp",
+        "width": 1440,
+        "size": 187614
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img34.jpg": {
+    "original": {
+      "width": 4946,
+      "height": 3297,
+      "size": 10287756
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img34.webp",
+        "width": 4946,
+        "size": 1972532
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img34-480w.webp",
+        "width": 480,
+        "size": 38780
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img34-960w.webp",
+        "width": 960,
+        "size": 98552
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img34-1440w.webp",
+        "width": 1440,
+        "size": 172438
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img35.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 2600292
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img35.webp",
+        "width": 6000,
+        "size": 3429682
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img35-480w.webp",
+        "width": 480,
+        "size": 20576
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img35-960w.webp",
+        "width": 960,
+        "size": 55150
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img35-1440w.webp",
+        "width": 1440,
+        "size": 104412
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img36.jpg": {
+    "original": {
+      "width": 4122,
+      "height": 2576,
+      "size": 856073
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img36.webp",
+        "width": 4122,
+        "size": 677906
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img36-480w.webp",
+        "width": 480,
+        "size": 39482
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img36-960w.webp",
+        "width": 960,
+        "size": 103098
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img36-1440w.webp",
+        "width": 1440,
+        "size": 179622
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img37.jpg": {
+    "original": {
+      "width": 6240,
+      "height": 3512,
+      "size": 1679515
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img37.webp",
+        "width": 6240,
+        "size": 1623100
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img37-480w.webp",
+        "width": 480,
+        "size": 30958
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img37-960w.webp",
+        "width": 960,
+        "size": 93546
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img37-1440w.webp",
+        "width": 1440,
+        "size": 176464
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img38.jpg": {
+    "original": {
+      "width": 5312,
+      "height": 3512,
+      "size": 2101425
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img38.webp",
+        "width": 5312,
+        "size": 2248538
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img38-480w.webp",
+        "width": 480,
+        "size": 41708
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img38-960w.webp",
+        "width": 960,
+        "size": 136750
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img38-1440w.webp",
+        "width": 1440,
+        "size": 276090
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img39.jpg": {
+    "original": {
+      "width": 4734,
+      "height": 3688,
+      "size": 9927293
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img39.webp",
+        "width": 4734,
+        "size": 1155600
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img39-480w.webp",
+        "width": 480,
+        "size": 31602
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img39-960w.webp",
+        "width": 960,
+        "size": 74708
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img39-1440w.webp",
+        "width": 1440,
+        "size": 121402
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img4.jpg": {
+    "original": {
+      "width": 2862,
+      "height": 1925,
+      "size": 830072
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img4.webp",
+        "width": 2862,
+        "size": 830696
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img4-480w.webp",
+        "width": 480,
+        "size": 48042
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img4-960w.webp",
+        "width": 960,
+        "size": 175812
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img4-1440w.webp",
+        "width": 1440,
+        "size": 348254
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img40.jpg": {
+    "original": {
+      "width": 874,
+      "height": 1280,
+      "size": 230719
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img40.webp",
+        "width": 874,
+        "size": 153768
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img40-480w.webp",
+        "width": 480,
+        "size": 65364
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img41.jpg": {
+    "original": {
+      "width": 6980,
+      "height": 5372,
+      "size": 17270647
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img41.webp",
+        "width": 6980,
+        "size": 1957824
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img41-480w.webp",
+        "width": 480,
+        "size": 29608
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img41-960w.webp",
+        "width": 960,
+        "size": 73202
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img41-1440w.webp",
+        "width": 1440,
+        "size": 128730
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img42.jpg": {
+    "original": {
+      "width": 5964,
+      "height": 4042,
+      "size": 11932211
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img42.webp",
+        "width": 5964,
+        "size": 1512222
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img42-480w.webp",
+        "width": 480,
+        "size": 26278
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img42-960w.webp",
+        "width": 960,
+        "size": 77014
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img42-1440w.webp",
+        "width": 1440,
+        "size": 140486
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img43.jpg": {
+    "original": {
+      "width": 2857,
+      "height": 2832,
+      "size": 5483924
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img43.webp",
+        "width": 2857,
+        "size": 1202628
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img43-480w.webp",
+        "width": 480,
+        "size": 61892
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img43-960w.webp",
+        "width": 960,
+        "size": 188280
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img43-1440w.webp",
+        "width": 1440,
+        "size": 374344
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img44.jpg": {
+    "original": {
+      "width": 3754,
+      "height": 2934,
+      "size": 5942359
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img44.webp",
+        "width": 3754,
+        "size": 862364
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img44-480w.webp",
+        "width": 480,
+        "size": 25484
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img44-960w.webp",
+        "width": 960,
+        "size": 65768
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img44-1440w.webp",
+        "width": 1440,
+        "size": 121248
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img45.jpg": {
+    "original": {
+      "width": 4783,
+      "height": 2560,
+      "size": 6755602
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img45.webp",
+        "width": 4783,
+        "size": 1031620
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img45-480w.webp",
+        "width": 480,
+        "size": 25274
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img45-960w.webp",
+        "width": 960,
+        "size": 71860
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img45-1440w.webp",
+        "width": 1440,
+        "size": 124942
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img46.jpg": {
+    "original": {
+      "width": 4269,
+      "height": 2273,
+      "size": 6901230
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img46.webp",
+        "width": 4269,
+        "size": 1826778
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img46-480w.webp",
+        "width": 480,
+        "size": 29680
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img46-960w.webp",
+        "width": 960,
+        "size": 86086
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img46-1440w.webp",
+        "width": 1440,
+        "size": 168110
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img47.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 10149076
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img47.webp",
+        "width": 4240,
+        "size": 2695288
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img47-480w.webp",
+        "width": 480,
+        "size": 48158
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img47-960w.webp",
+        "width": 960,
+        "size": 152924
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img47-1440w.webp",
+        "width": 1440,
+        "size": 312010
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img48.jpg": {
+    "original": {
+      "width": 9504,
+      "height": 5344,
+      "size": 40540477
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img48.webp",
+        "width": 9504,
+        "size": 13502270
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img48-480w.webp",
+        "width": 480,
+        "size": 34588
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img48-960w.webp",
+        "width": 960,
+        "size": 97934
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img48-1440w.webp",
+        "width": 1440,
+        "size": 188336
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img49.jpg": {
+    "original": {
+      "width": 9504,
+      "height": 5344,
+      "size": 41790321
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img49.webp",
+        "width": 9504,
+        "size": 13105674
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img49-480w.webp",
+        "width": 480,
+        "size": 38862
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img49-960w.webp",
+        "width": 960,
+        "size": 128544
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img49-1440w.webp",
+        "width": 1440,
+        "size": 264980
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img5.jpg": {
+    "original": {
+      "width": 1815,
+      "height": 1191,
+      "size": 384157
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img5.webp",
+        "width": 1815,
+        "size": 284312
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img5-480w.webp",
+        "width": 480,
+        "size": 46040
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img5-960w.webp",
+        "width": 960,
+        "size": 129452
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img5-1440w.webp",
+        "width": 1440,
+        "size": 215626
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img50.jpg": {
+    "original": {
+      "width": 4266,
+      "height": 5163,
+      "size": 2821348
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img50.webp",
+        "width": 4266,
+        "size": 4453904
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img50-480w.webp",
+        "width": 480,
+        "size": 24882
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img50-960w.webp",
+        "width": 960,
+        "size": 73088
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img50-1440w.webp",
+        "width": 1440,
+        "size": 276078
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img51.jpg": {
+    "original": {
+      "width": 7532,
+      "height": 6336,
+      "size": 3274352
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img51.webp",
+        "width": 7532,
+        "size": 4025656
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img51-480w.webp",
+        "width": 480,
+        "size": 28732
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img51-960w.webp",
+        "width": 960,
+        "size": 85602
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img51-1440w.webp",
+        "width": 1440,
+        "size": 161162
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img52.jpg": {
+    "original": {
+      "width": 7692,
+      "height": 5344,
+      "size": 1901109
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img52.webp",
+        "width": 7692,
+        "size": 1691562
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img52-480w.webp",
+        "width": 480,
+        "size": 29856
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img52-960w.webp",
+        "width": 960,
+        "size": 81230
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img52-1440w.webp",
+        "width": 1440,
+        "size": 138008
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img53.jpg": {
+    "original": {
+      "width": 6910,
+      "height": 5344,
+      "size": 1897212
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img53.webp",
+        "width": 6910,
+        "size": 1574092
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img53-480w.webp",
+        "width": 480,
+        "size": 36826
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img53-960w.webp",
+        "width": 960,
+        "size": 104162
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img53-1440w.webp",
+        "width": 1440,
+        "size": 179166
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img54.jpg": {
+    "original": {
+      "width": 8047,
+      "height": 5344,
+      "size": 3759644
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img54.webp",
+        "width": 8047,
+        "size": 4043966
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img54-480w.webp",
+        "width": 480,
+        "size": 51066
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img54-960w.webp",
+        "width": 960,
+        "size": 172118
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img54-1440w.webp",
+        "width": 1440,
+        "size": 331488
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img55.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 928684
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img55.webp",
+        "width": 4240,
+        "size": 943258
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img55-480w.webp",
+        "width": 480,
+        "size": 22528
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img55-960w.webp",
+        "width": 960,
+        "size": 61836
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img55-1440w.webp",
+        "width": 1440,
+        "size": 123814
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img56.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 875458
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img56.webp",
+        "width": 4240,
+        "size": 774942
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img56-480w.webp",
+        "width": 480,
+        "size": 29082
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img56-960w.webp",
+        "width": 960,
+        "size": 76526
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img56-1440w.webp",
+        "width": 1440,
+        "size": 141514
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img57.jpg": {
+    "original": {
+      "width": 4240,
+      "height": 2832,
+      "size": 948560
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img57.webp",
+        "width": 4240,
+        "size": 905402
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img57-480w.webp",
+        "width": 480,
+        "size": 30208
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img57-960w.webp",
+        "width": 960,
+        "size": 79986
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img57-1440w.webp",
+        "width": 1440,
+        "size": 145262
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img58.jpg": {
+    "original": {
+      "width": 5184,
+      "height": 3456,
+      "size": 9801678
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img58.webp",
+        "width": 5184,
+        "size": 1749390
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img58-480w.webp",
+        "width": 480,
+        "size": 21800
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img58-960w.webp",
+        "width": 960,
+        "size": 56006
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img58-1440w.webp",
+        "width": 1440,
+        "size": 125336
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img59.jpg": {
+    "original": {
+      "width": 3418,
+      "height": 2790,
+      "size": 1391427
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img59.webp",
+        "width": 3418,
+        "size": 691394
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img59-480w.webp",
+        "width": 480,
+        "size": 32692
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img59-960w.webp",
+        "width": 960,
+        "size": 87082
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img59-1440w.webp",
+        "width": 1440,
+        "size": 160504
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img6.jpg": {
+    "original": {
+      "width": 3315,
+      "height": 2544,
+      "size": 1004496
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img6.webp",
+        "width": 3315,
+        "size": 998816
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img6-480w.webp",
+        "width": 480,
+        "size": 56000
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img6-960w.webp",
+        "width": 960,
+        "size": 173544
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img6-1440w.webp",
+        "width": 1440,
+        "size": 326650
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img60.jpg": {
+    "original": {
+      "width": 6000,
+      "height": 4000,
+      "size": 13087209
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img60.webp",
+        "width": 6000,
+        "size": 2137028
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img60-480w.webp",
+        "width": 480,
+        "size": 28584
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img60-960w.webp",
+        "width": 960,
+        "size": 74348
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img60-1440w.webp",
+        "width": 1440,
+        "size": 140786
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img7.jpg": {
+    "original": {
+      "width": 6240,
+      "height": 3512,
+      "size": 2275037
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img7.webp",
+        "width": 6240,
+        "size": 2856968
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img7-480w.webp",
+        "width": 480,
+        "size": 31378
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img7-960w.webp",
+        "width": 960,
+        "size": 83572
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img7-1440w.webp",
+        "width": 1440,
+        "size": 144084
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img8.jpg": {
+    "original": {
+      "width": 3512,
+      "height": 6240,
+      "size": 1830061
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img8.webp",
+        "width": 3512,
+        "size": 2093874
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img8-480w.webp",
+        "width": 480,
+        "size": 59000
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img8-960w.webp",
+        "width": 960,
+        "size": 150066
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img8-1440w.webp",
+        "width": 1440,
+        "size": 335064
+      }
+    }
+  },
+  "GalleryFront/photos/Sports/img9.jpg": {
+    "original": {
+      "width": 3951,
+      "height": 2368,
+      "size": 1075015
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/photos/Sports/img9.webp",
+        "width": 3951,
+        "size": 1104906
+      },
+      "480w": {
+        "path": "GalleryFront/photos/Sports/img9-480w.webp",
+        "width": 480,
+        "size": 42792
+      },
+      "960w": {
+        "path": "GalleryFront/photos/Sports/img9-960w.webp",
+        "width": 960,
+        "size": 129436
+      },
+      "1440w": {
+        "path": "GalleryFront/photos/Sports/img9-1440w.webp",
+        "width": 1440,
+        "size": 250334
+      }
+    }
+  },
+  "GalleryFront/pronite-cover.png": {
+    "original": {
+      "width": 2078,
+      "height": 1264,
+      "size": 4384094
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/pronite-cover.webp",
+        "width": 2078,
+        "size": 203362
+      },
+      "480w": {
+        "path": "GalleryFront/pronite-cover-480w.webp",
+        "width": 480,
+        "size": 26482
+      },
+      "960w": {
+        "path": "GalleryFront/pronite-cover-960w.webp",
+        "width": 960,
+        "size": 67804
+      },
+      "1440w": {
+        "path": "GalleryFront/pronite-cover-1440w.webp",
+        "width": 1440,
+        "size": 115600
+      }
+    }
+  },
+  "GalleryFront/sports-main.png": {
+    "original": {
+      "width": 1024,
+      "height": 542,
+      "size": 954753
+    },
+    "webp": {
+      "full": {
+        "path": "GalleryFront/sports-main.webp",
+        "width": 1024,
+        "size": 107456
+      },
+      "480w": {
+        "path": "GalleryFront/sports-main-480w.webp",
+        "width": 480,
+        "size": 31386
+      },
+      "960w": {
+        "path": "GalleryFront/sports-main-960w.webp",
+        "width": 960,
+        "size": 93384
+      }
+    }
+  },
+  "LandingPage/bg_image.png": {
+    "original": {
+      "width": 2560,
+      "height": 1353,
+      "size": 2881291
+    },
+    "webp": {
+      "full": {
+        "path": "LandingPage/bg_image.webp",
+        "width": 2560,
+        "size": 152134
+      },
+      "480w": {
+        "path": "LandingPage/bg_image-480w.webp",
+        "width": 480,
+        "size": 19300
+      },
+      "960w": {
+        "path": "LandingPage/bg_image-960w.webp",
+        "width": 960,
+        "size": 51440
+      },
+      "1440w": {
+        "path": "LandingPage/bg_image-1440w.webp",
+        "width": 1440,
+        "size": 83120
+      }
+    }
+  },
+  "LandingPage/title-bottom.png": {
+    "original": {
+      "width": 320,
+      "height": 64,
+      "size": 27107
+    },
+    "webp": {
+      "full": {
+        "path": "LandingPage/title-bottom.webp",
+        "width": 320,
+        "size": 6828
+      }
+    }
+  },
+  "LandingPage/title-top.png": {
+    "original": {
+      "width": 437,
+      "height": 48,
+      "size": 32758
+    },
+    "webp": {
+      "full": {
+        "path": "LandingPage/title-top.webp",
+        "width": 437,
+        "size": 8654
+      }
+    }
+  },
+  "LandingPage/title.png": {
+    "original": {
+      "width": 1045,
+      "height": 242,
+      "size": 169914
+    },
+    "webp": {
+      "full": {
+        "path": "LandingPage/title.webp",
+        "width": 1045,
+        "size": 60436
+      },
+      "480w": {
+        "path": "LandingPage/title-480w.webp",
+        "width": 480,
+        "size": 25376
+      },
+      "960w": {
+        "path": "LandingPage/title-960w.webp",
+        "width": 960,
+        "size": 64190
+      }
+    }
+  },
+  "LandingPage/titleNormal.png": {
+    "original": {
+      "width": 1045,
+      "height": 148,
+      "size": 110275
+    },
+    "webp": {
+      "full": {
+        "path": "LandingPage/titleNormal.webp",
+        "width": 1045,
+        "size": 46546
+      },
+      "480w": {
+        "path": "LandingPage/titleNormal-480w.webp",
+        "width": 480,
+        "size": 17666
+      },
+      "960w": {
+        "path": "LandingPage/titleNormal-960w.webp",
+        "width": 960,
+        "size": 44826
+      }
+    }
+  },
+  "Registration/discord_logo_white.png": {
+    "original": {
+      "width": 27,
+      "height": 20,
+      "size": 791
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/discord_logo_white.webp",
+        "width": 27,
+        "size": 686
+      }
+    }
+  },
+  "Registration/dropdown_icon.png": {
+    "original": {
+      "width": 170,
+      "height": 182,
+      "size": 709
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/dropdown_icon.webp",
+        "width": 170,
+        "size": 744
+      }
+    }
+  },
+  "Registration/insta_logo_white.png": {
+    "original": {
+      "width": 24,
+      "height": 24,
+      "size": 734
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/insta_logo_white.webp",
+        "width": 24,
+        "size": 656
+      }
+    }
+  },
+  "Registration/mail_logo_white.png": {
+    "original": {
+      "width": 24,
+      "height": 24,
+      "size": 953
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/mail_logo_white.webp",
+        "width": 24,
+        "size": 798
+      }
+    }
+  },
+  "Registration/register_notebook.png": {
+    "original": {
+      "width": 735,
+      "height": 507,
+      "size": 242043
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook.webp",
+        "width": 735,
+        "size": 17882
+      },
+      "480w": {
+        "path": "Registration/register_notebook-480w.webp",
+        "width": 480,
+        "size": 12224
+      }
+    }
+  },
+  "Registration/register_notebook_bottom.png": {
+    "original": {
+      "width": 706,
+      "height": 25,
+      "size": 9728
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_bottom.webp",
+        "width": 706,
+        "size": 1738
+      },
+      "480w": {
+        "path": "Registration/register_notebook_bottom-480w.webp",
+        "width": 480,
+        "size": 1204
+      }
+    }
+  },
+  "Registration/register_notebook_bottom2.png": {
+    "original": {
+      "width": 735,
+      "height": 20,
+      "size": 13018
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_bottom2.webp",
+        "width": 735,
+        "size": 1480
+      },
+      "480w": {
+        "path": "Registration/register_notebook_bottom2-480w.webp",
+        "width": 480,
+        "size": 834
+      }
+    }
+  },
+  "Registration/register_notebook_mid.png": {
+    "original": {
+      "width": 706,
+      "height": 405,
+      "size": 14805
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_mid.webp",
+        "width": 706,
+        "size": 2190
+      },
+      "480w": {
+        "path": "Registration/register_notebook_mid-480w.webp",
+        "width": 480,
+        "size": 1192
+      }
+    }
+  },
+  "Registration/register_notebook_mid2.png": {
+    "original": {
+      "width": 735,
+      "height": 397,
+      "size": 162880
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_mid2.webp",
+        "width": 735,
+        "size": 2128
+      },
+      "480w": {
+        "path": "Registration/register_notebook_mid2-480w.webp",
+        "width": 480,
+        "size": 1970
+      }
+    }
+  },
+  "Registration/register_notebook_top.png": {
+    "original": {
+      "width": 706,
+      "height": 60,
+      "size": 48500
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_top.webp",
+        "width": 706,
+        "size": 11298
+      },
+      "480w": {
+        "path": "Registration/register_notebook_top-480w.webp",
+        "width": 480,
+        "size": 7640
+      }
+    }
+  },
+  "Registration/register_notebook_top2.png": {
+    "original": {
+      "width": 735,
+      "height": 64,
+      "size": 46475
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/register_notebook_top2.webp",
+        "width": 735,
+        "size": 13080
+      },
+      "480w": {
+        "path": "Registration/register_notebook_top2-480w.webp",
+        "width": 480,
+        "size": 8754
+      }
+    }
+  },
+  "Registration/yt_logo_white.png": {
+    "original": {
+      "width": 24,
+      "height": 24,
+      "size": 506
+    },
+    "webp": {
+      "full": {
+        "path": "Registration/yt_logo_white.webp",
+        "width": 24,
+        "size": 452
+      }
+    }
+  },
+  "SponsorsPage/backgrounds/bg.png": {
+    "original": {
+      "width": 1280,
+      "height": 1397,
+      "size": 1321270
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/backgrounds/bg.webp",
+        "width": 1280,
+        "size": 286504
+      },
+      "480w": {
+        "path": "SponsorsPage/backgrounds/bg-480w.webp",
+        "width": 480,
+        "size": 92868
+      },
+      "960w": {
+        "path": "SponsorsPage/backgrounds/bg-960w.webp",
+        "width": 960,
+        "size": 195960
+      }
+    }
+  },
+  "SponsorsPage/logos/chetak.png": {
+    "original": {
+      "width": 315,
+      "height": 67,
+      "size": 9153
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/chetak.webp",
+        "width": 315,
+        "size": 5662
+      }
+    }
+  },
+  "SponsorsPage/logos/fitspire.png": {
+    "original": {
+      "width": 300,
+      "height": 115,
+      "size": 15369
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/fitspire.webp",
+        "width": 300,
+        "size": 3896
+      }
+    }
+  },
+  "SponsorsPage/logos/globalreach.png": {
+    "original": {
+      "width": 153,
+      "height": 153,
+      "size": 11899
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/globalreach.webp",
+        "width": 153,
+        "size": 2642
+      }
+    }
+  },
+  "SponsorsPage/logos/ktm.png": {
+    "original": {
+      "width": 268,
+      "height": 128,
+      "size": 4368
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/ktm.webp",
+        "width": 268,
+        "size": 2868
+      }
+    }
+  },
+  "SponsorsPage/logos/logo.png": {
+    "original": {
+      "width": 45,
+      "height": 106,
+      "size": 1296
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/logo.webp",
+        "width": 45,
+        "size": 1090
+      }
+    }
+  },
+  "SponsorsPage/logos/mankind.png": {
+    "original": {
+      "width": 153,
+      "height": 153,
+      "size": 17220
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/mankind.webp",
+        "width": 153,
+        "size": 3714
+      }
+    }
+  },
+  "SponsorsPage/logos/redbull.png": {
+    "original": {
+      "width": 156,
+      "height": 156,
+      "size": 19847
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/redbull.webp",
+        "width": 156,
+        "size": 4092
+      }
+    }
+  },
+  "SponsorsPage/logos/sos.png": {
+    "original": {
+      "width": 243,
+      "height": 153,
+      "size": 37380
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/sos.webp",
+        "width": 243,
+        "size": 11636
+      }
+    }
+  },
+  "SponsorsPage/logos/vivo.png": {
+    "original": {
+      "width": 153,
+      "height": 153,
+      "size": 15696
+    },
+    "webp": {
+      "full": {
+        "path": "SponsorsPage/logos/vivo.webp",
+        "width": 153,
+        "size": 6576
+      }
+    }
+  },
+  "Sports/pattern.png": {
+    "original": {
+      "width": 1024,
+      "height": 1024,
+      "size": 1456054
+    },
+    "webp": {
+      "full": {
+        "path": "Sports/pattern.webp",
+        "width": 1024,
+        "size": 142382
+      },
+      "480w": {
+        "path": "Sports/pattern-480w.webp",
+        "width": 480,
+        "size": 67000
+      },
+      "960w": {
+        "path": "Sports/pattern-960w.webp",
+        "width": 960,
+        "size": 134162
+      }
+    }
+  },
+  "Sports/photo-1.jpg": {
+    "original": {
+      "width": 4096,
+      "height": 3721,
+      "size": 8163332
+    },
+    "webp": {
+      "full": {
+        "path": "Sports/photo-1.webp",
+        "width": 4096,
+        "size": 672702
+      },
+      "480w": {
+        "path": "Sports/photo-1-480w.webp",
+        "width": 480,
+        "size": 48894
+      },
+      "960w": {
+        "path": "Sports/photo-1-960w.webp",
+        "width": 960,
+        "size": 119462
+      },
+      "1440w": {
+        "path": "Sports/photo-1-1440w.webp",
+        "width": 1440,
+        "size": 196460
+      }
+    }
+  },
+  "Sports/photo-2.png": {
+    "original": {
+      "width": 970,
+      "height": 1140,
+      "size": 1777919
+    },
+    "webp": {
+      "full": {
+        "path": "Sports/photo-2.webp",
+        "width": 970,
+        "size": 77220
+      },
+      "480w": {
+        "path": "Sports/photo-2-480w.webp",
+        "width": 480,
+        "size": 23452
+      },
+      "960w": {
+        "path": "Sports/photo-2-960w.webp",
+        "width": 960,
+        "size": 69428
+      }
+    }
+  },
+  "Sports/photo-3.png": {
+    "original": {
+      "width": 2560,
+      "height": 1706,
+      "size": 5570669
+    },
+    "webp": {
+      "full": {
+        "path": "Sports/photo-3.webp",
+        "width": 2560,
+        "size": 389542
+      },
+      "480w": {
+        "path": "Sports/photo-3-480w.webp",
+        "width": 480,
+        "size": 24032
+      },
+      "960w": {
+        "path": "Sports/photo-3-960w.webp",
+        "width": 960,
+        "size": 63754
+      },
+      "1440w": {
+        "path": "Sports/photo-3-1440w.webp",
+        "width": 1440,
+        "size": 123190
+      }
+    }
+  },
+  "Sports/photo-4.png": {
+    "original": {
+      "width": 1238,
+      "height": 1328,
+      "size": 2525196
+    },
+    "webp": {
+      "full": {
+        "path": "Sports/photo-4.webp",
+        "width": 1238,
+        "size": 126954
+      },
+      "480w": {
+        "path": "Sports/photo-4-480w.webp",
+        "width": 480,
+        "size": 39502
+      },
+      "960w": {
+        "path": "Sports/photo-4-960w.webp",
+        "width": 960,
+        "size": 93012
+      }
+    }
+  },
+  "Teams/bgImg.png": {
+    "original": {
+      "width": 1280,
+      "height": 850,
+      "size": 678680
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/bgImg.webp",
+        "width": 1280,
+        "size": 131676
+      },
+      "480w": {
+        "path": "Teams/bgImg-480w.webp",
+        "width": 480,
+        "size": 45438
+      },
+      "960w": {
+        "path": "Teams/bgImg-960w.webp",
+        "width": 960,
+        "size": 95050
+      }
+    }
+  },
+  "Teams/bulb.png": {
+    "original": {
+      "width": 104,
+      "height": 134,
+      "size": 8537
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/bulb.webp",
+        "width": 104,
+        "size": 3450
+      }
+    }
+  },
+  "Teams/calender.png": {
+    "original": {
+      "width": 79,
+      "height": 80,
+      "size": 4835
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/calender.webp",
+        "width": 79,
+        "size": 2140
+      }
+    }
+  },
+  "Teams/code.png": {
+    "original": {
+      "width": 72,
+      "height": 75,
+      "size": 4631
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/code.webp",
+        "width": 72,
+        "size": 2446
+      }
+    }
+  },
+  "Teams/crown.png": {
+    "original": {
+      "width": 102,
+      "height": 86,
+      "size": 3752
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/crown.webp",
+        "width": 102,
+        "size": 2020
+      }
+    }
+  },
+  "Teams/flame.png": {
+    "original": {
+      "width": 84,
+      "height": 88,
+      "size": 4340
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/flame.webp",
+        "width": 84,
+        "size": 2004
+      }
+    }
+  },
+  "Teams/home.png": {
+    "original": {
+      "width": 64,
+      "height": 65,
+      "size": 3553
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/home.webp",
+        "width": 64,
+        "size": 1522
+      }
+    }
+  },
+  "Teams/megaphone.png": {
+    "original": {
+      "width": 85,
+      "height": 80,
+      "size": 5070
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/megaphone.webp",
+        "width": 85,
+        "size": 2170
+      }
+    }
+  },
+  "Teams/member-bg-blue.png": {
+    "original": {
+      "width": 216,
+      "height": 211,
+      "size": 68437
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/member-bg-blue.webp",
+        "width": 216,
+        "size": 8774
+      }
+    }
+  },
+  "Teams/member-bg-gray.png": {
+    "original": {
+      "width": 216,
+      "height": 211,
+      "size": 44075
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/member-bg-gray.webp",
+        "width": 216,
+        "size": 9838
+      }
+    }
+  },
+  "Teams/member-bg-pink.png": {
+    "original": {
+      "width": 216,
+      "height": 211,
+      "size": 84344
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/member-bg-pink.webp",
+        "width": 216,
+        "size": 10338
+      }
+    }
+  },
+  "Teams/member-bg-yellow.png": {
+    "original": {
+      "width": 216,
+      "height": 211,
+      "size": 77416
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/member-bg-yellow.webp",
+        "width": 216,
+        "size": 10144
+      }
+    }
+  },
+  "Teams/memberImg.png": {
+    "original": {
+      "width": 217,
+      "height": 208,
+      "size": 41826
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/memberImg.webp",
+        "width": 217,
+        "size": 7750
+      }
+    }
+  },
+  "Teams/monitor.png": {
+    "original": {
+      "width": 70,
+      "height": 65,
+      "size": 3662
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/monitor.webp",
+        "width": 70,
+        "size": 1806
+      }
+    }
+  },
+  "Teams/shield.png": {
+    "original": {
+      "width": 79,
+      "height": 86,
+      "size": 5013
+    },
+    "webp": {
+      "full": {
+        "path": "Teams/shield.webp",
+        "width": 79,
+        "size": 2138
+      }
+    }
+  },
+  "card_photo.png": {
+    "original": {
+      "width": 190,
+      "height": 128,
+      "size": 14048
+    },
+    "webp": {
+      "full": {
+        "path": "card_photo.webp",
+        "width": 190,
+        "size": 2618
+      }
+    }
+  },
+  "main_photo.jpg": {
+    "original": {
+      "width": 1280,
+      "height": 783,
+      "size": 329947
+    },
+    "webp": {
+      "full": {
+        "path": "main_photo.webp",
+        "width": 1280,
+        "size": 184348
+      },
+      "480w": {
+        "path": "main_photo-480w.webp",
+        "width": 480,
+        "size": 36564
+      },
+      "960w": {
+        "path": "main_photo-960w.webp",
+        "width": 960,
+        "size": 110700
+      }
+    }
+  }
+}
